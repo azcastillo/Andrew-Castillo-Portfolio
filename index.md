@@ -14,6 +14,8 @@ Part 2 of the project consisted of creating a model predicting whether a prior a
   * What is the relationship between the correct diagnosis, tried and failed, and contraindication and the prior authorization being approved? 
   * Of the people who have or have not tried and failed a generic alternative, how many of them had contraindications or a correct diagnosis? 
 
+![](images/reject_code_with_drug.jpg)
+
 
 ## [Project 2: NFL Big Data Bowl Erdos Bootcamp Project](https://github.com/azcastillo/erdos2021_nfl_predmodel)
 
@@ -39,3 +41,5 @@ An offense has four downs or fewer to advance the 10 yards required to gain a fi
 When either the offense or defense violates the rules of the game, they are assessed a penalty. The teams and fans know a penalty has been called when an official throws a yellow flag on the field. Penalties award field position to either the offensive or defensive team based on which team committed the penalty. Penalties range from 5 yards, 10 yards, 15 yards, to potentially the entire length of the field when it comes to pass interference. Because of this, it is important to find out which formations are generally prone or averse to committing penalties. 
 
 **GOAL:** Analysis will consist of examining data from the 2018 NFL season to find out which offensive and defensive formations are more or less likely to commit penalties. Moreoever, we aim to predict penalties based on week 1 player tracking data as well as plays data.
+
+![](images/personnelD_pass_rushers.jpg)
