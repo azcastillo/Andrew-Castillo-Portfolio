@@ -1,4 +1,9 @@
 
+Howdy! My name is Andrew Castillo and I am a pure mathematics PhD transitioning into the world of data. Here are a few of the data scince projects that I have worked on. Github links to the projects are provided if you would like an in depth analysis. 
+ 
+![](images/intro_image.jpg)
+
+
 ## [Project 1: CoverMyMeds Erdos Bootcamp Prior Authorization Predictor](https://github.com/azcastillo/covermymeds_project)
 Two part project in which I created two models to make predictions based on prior authorization information. 
 
