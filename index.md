@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Andrew Castillo Portfolio 
 
-You can use the [editor on GitHub](https://github.com/azcastillo/azcastillo_portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Project 1: CoverMyMeds Erdos Bootcamp Prior Authorization Predictor: Project Overview 
+* Two part project in which I created two models to make predictions based on prior authorization information. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Part 1 of the project consisted of creating a model predicting whether a prior authorization would be needed based upon pharmacy claims data. This portion of the prject also consisted of exploratory data analysis in which the following questions were answered: 
 
-### Markdown
+  * Which insurance companies had the most approved pharmacy claims? 
+  * Which drug was approved the most (numerically)? Which rejection code seemed to appear the most with each drug? 
+  * What about a scaled version of this? Relatively, how much did each code appear for each drug?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Part 2 of the project consisted of creating a model predicting whether a prior authorization is likely to be approved. This model was based on data contained on the PA such as correct diagnosis, has already tried and failed a generic drug alternative, has health-related reasons not to take certain medications (contraindications), and claims data. Moreover, this portion consisted of exploratory data analysis in which the following questions were answered (based only on the prior authorization data): 
 
-```markdown
-Syntax highlighted code block
+  * What is the relationship between the correct diagnosis, tried and failed, and contraindication and the prior authorization being approved? 
+  * Of the people who have or have not tried and failed a generic alternative, how many of them had contraindications or a correct diagnosis? 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/azcastillo/azcastillo_portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
