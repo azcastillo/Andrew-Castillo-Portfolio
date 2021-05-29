@@ -18,7 +18,7 @@ Part 2 of the project consisted of creating a model predicting whether a prior a
   * What is the relationship between the correct diagnosis, tried and failed, and contraindication and the prior authorization being approved? 
   * Of the people who have or have not tried and failed a generic alternative, how many of them had contraindications or a correct diagnosis? 
 
-## Project 2: NFL Big Data Bowl Erdos Bootcamp Project
+## [Project 2: NFL Big Data Bowl Erdos Bootcamp Project](https://github.com/azcastillo/erdos2021_nfl_predmodel)
 
 This project was completed as part of the The Erdős Institute Data Science Boot Camp 2021. The NFL Big Data Bowl is an annual analytics contest that explores statistical innovations in football. NFL data from the 2018 season was analyzed to provide recommendations and summaries for optimal defensive coverages, first down analysis, and penalty analysis. To successfully create a prediction model that NFL teams can benefit from, it is important to understand football and its related data. This will allow data scientists to identify significant data for building a model.    
 
