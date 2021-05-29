@@ -14,6 +14,8 @@ Part 2 of the project consisted of creating a model predicting whether a prior a
 
   * What is the relationship between the correct diagnosis, tried and failed, and contraindication and the prior authorization being approved? 
   * Of the people who have or have not tried and failed a generic alternative, how many of them had contraindications or a correct diagnosis? 
+ 
+![](images/bin_drug_reject_code.jpg)
 
 ## [Project 2: NFL Big Data Bowl Erdos Bootcamp Project](https://github.com/azcastillo/erdos2021_nfl_predmodel)
 
