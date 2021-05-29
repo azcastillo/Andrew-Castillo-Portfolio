@@ -14,7 +14,7 @@ Part 2 of the project consisted of creating a model predicting whether a prior a
   * What is the relationship between the correct diagnosis, tried and failed, and contraindication and the prior authorization being approved? 
   * Of the people who have or have not tried and failed a generic alternative, how many of them had contraindications or a correct diagnosis? 
 
-![](images/reject_code_with_drug.jpg)
+![](main/images/personnelD_pass_rushers.jpg)
 
 
 ## [Project 2: NFL Big Data Bowl Erdos Bootcamp Project](https://github.com/azcastillo/erdos2021_nfl_predmodel)
@@ -42,4 +42,4 @@ When either the offense or defense violates the rules of the game, they are asse
 
 **GOAL:** Analysis will consist of examining data from the 2018 NFL season to find out which offensive and defensive formations are more or less likely to commit penalties. Moreoever, we aim to predict penalties based on week 1 player tracking data as well as plays data.
 
-![](images/personnelD_pass_rushers.jpg)
+![](https://github.com/azcastillo/Andrew-Castillo-Portfolio/blob/main/images/personnelD_pass_rushers.jpg)
