@@ -2,7 +2,7 @@
 
 # Andrew Castillo Portfolio 
 
-## Project 1: CoverMyMeds Erdos Bootcamp Prior Authorization Predictor: Project Overview 
+## [Project 1: CoverMyMeds Erdos Bootcamp Prior Authorization Predictor: Project Overview](https://github.com/azcastillo/covermymeds_project)
 * Two part project in which I created two models to make predictions based on prior authorization information. 
 
 * Part 1 of the project consisted of creating a model predicting whether a prior authorization would be needed based upon pharmacy claims data. This portion of the prject also consisted of exploratory data analysis in which the following questions were answered: 
