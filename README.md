@@ -48,3 +48,30 @@ When either the offense or defense violates the rules of the game, they are asse
 **GOAL:** Analysis will consist of examining data from the 2018 NFL season to find out which offensive and defensive formations are more or less likely to commit penalties. Moreoever, we aim to predict penalties based on week 1 player tracking data as well as plays data.
 
 ![](images/personnelD_pass_rushers.jpg)
+
+
+## [Project 3: Data Analyst Salary Predictor](https://github.com/azcastillo/data_analyst_salary_predictor)
+
+Independent project to gather information on data analyst positions with regard to the skills required as well as predicting salaries. 
+
+### Project Overview:
+
+This project consisted of analyzing the skills needed for data analyst positions as well as predict the salaries for such positions (MAE approx 14.83K). I also analyzed the locations that had the most jobs available, their available salaries, which type of specific data analyst jobs were available, as well as which specific job titles had the highest ratings. I used data that was scraped from glassdoor.com and can be found at the following link: https://www.kaggle.com/andrewmvd/data-analyst-jobs. 
+
+As data analyst positions become more popular as the field grows, I hope the results of this project help those who are looking for such positions. Those on the job market could use the results of this project to zone in on what skills they should acquire, where they could potentitally look for jobs, as well as analyzee which sectors value the position the most.  
+
+Part of the project consisted of generating features from the text of the job description to find the which skills were required for such position. Examples include, SQL, Excel, Tableau, Power-BI, and Python. 
+
+Extensive exploratory data analysis was used for the findings and can be referenced below. A few important items that stand out from the data are as follows:
+- Average salary for all positions is about 72.12 and average rating for all companies is about 3.16
+- 28% of companies wanted Python skills and about 60% wanted sql or excel. 
+- 100% of positions wanted at least a bachelor's degree, 36% mentioned a masters in the title, 2% only wanted a PhD. 
+- Companies whose revenues were between 1 and 5 million paid the highest average salary at about 76 million. In contrast, the companies with revenues of 500 million to 1 billion were near the bottom. 
+- SQL is an absolutely necessary skill that all data analyst should know. 
+- Tableau also seems to be the data visualization dashboard program of choice. In particular, 27% of positions wanted Tableau over the 7% that wanted Power BI
+- Biotech & Pharmaceuticals, Real Estate, and Arts were among the highest paying sectors for data analyst. 
+- Drug and Health stores, Education Training Services, and Health Care Products Manufactoring were among the highest paying industries. 
+- California, Colorado, Illinois were among the highest paying states for data analyst positions. 
+- Data Security Analyst had the highest salaries (~81K) but one of the lower average rating at around 2.79. 
+
+Modelling the salaries consisted of the regularization methods Lasso, Ridge, Elastic Net as well as the powerful XGBoost model. I used GridSearchCV on the regularization models and the built in hyperparameter tuning feature of XGBoost to optimize the models. 
