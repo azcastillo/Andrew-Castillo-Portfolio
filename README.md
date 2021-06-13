@@ -60,13 +60,13 @@ This project consisted of analyzing the skills needed for data analyst positions
 
 As data analyst positions become more popular as the field grows, I hope the results of this project help those who are looking for such positions. Those on the job market could use the results of this project to zone in on what skills they should acquire, where they could potentitally look for jobs, as well as analyze which sectors value the position the most.  
 
-Part of the project consisted of generating features from the text of the job description to find the which skills were required for such position. Examples include, SQL, Excel, Tableau, Power-BI, and Python. 
+Part of the project consisted of generating features from the text of the job description to find the which skills were required. Examples include, SQL, Excel, Tableau, Power-BI, and Python. 
 
 Extensive exploratory data analysis was used for the findings and can be referenced below. A few important items that stand out from the data are as follows:
-- Average salary for all positions is about 72.12 and average rating for all companies is about 3.16
+- Average salary for all positions is about 72.12K and average rating for all companies is about 3.16
 - 28% of companies wanted Python skills and about 60% wanted sql or excel. 
-- 100% of positions wanted at least a bachelor's degree, 36% mentioned a masters in the title, 2% only wanted a PhD. 
-- Companies whose revenues were between 1 and 5 million paid the highest average salary at about 76 million. In contrast, the companies with revenues of 500 million to 1 billion were near the bottom. 
+- 100% of positions wanted at least a bachelor's degree, 36% wanted a master's, 2% only wanted a PhD. 
+- Companies whose revenues were between 1 and 5 million paid the highest average salary at about 76 thousand. In contrast, the companies with revenues of 500 million to 1 billion were near the bottom. 
 - SQL is an absolutely necessary skill that all data analyst should know. 
 - Tableau also seems to be the data visualization dashboard program of choice. In particular, 27% of positions wanted Tableau over the 7% that wanted Power BI
 - Biotech & Pharmaceuticals, Real Estate, and Arts were among the highest paying sectors for data analyst. 
@@ -74,6 +74,6 @@ Extensive exploratory data analysis was used for the findings and can be referen
 - California, Colorado, Illinois were among the highest paying states for data analyst positions. 
 - Data Security Analyst had the highest salaries (~81K) but one of the lower average rating at around 2.79. 
 
-Modelling the salaries consisted of the regularization methods Lasso, Ridge, Elastic Net as well as the powerful XGBoost model. I used GridSearchCV on the regularization models and the built in hyperparameter tuning feature of XGBoost to optimize the models. 
+Modelling the salaries consisted of the regularization methods Lasso, Ridge, Elastic Net as well as the powerful XGBoost. I used GridSearchCV on the regularization models and the built in hyperparameter tuning feature of XGBoost to optimize that model. 
 
 ![](images/sql_avg_salaries.jpg )
