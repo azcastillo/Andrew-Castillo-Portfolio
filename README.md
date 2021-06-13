@@ -76,4 +76,4 @@ Extensive exploratory data analysis was used for the findings and can be referen
 
 Modelling the salaries consisted of the regularization methods Lasso, Ridge, Elastic Net as well as the powerful XGBoost model. I used GridSearchCV on the regularization models and the built in hyperparameter tuning feature of XGBoost to optimize the models. 
 
-![](images/personnelD_pass_rushers.jpg)
+![](images/sql_avg_salaries.jpg )
