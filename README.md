@@ -99,4 +99,4 @@ Here is a detailed customer cluster analysis from the Hierarchical technique:
 
 - __Cluster 2:__ Since this cluster has the most customers within it, many of the metrics are highest here. Given that these customers tend to have lower average credit limits as well as lower number of credit cards, this may signal that they have a lower income or have developing credit. It may be worthwhile business wise to interact with these customers to potentially reduce churn and potential credit default. This can be done via check in emails, calls, amd account reminders when visiting online. 
 
-![](ward_metric_dendrogram.jpg)
+![](images/ward_metric_dendrogram.jpg)
