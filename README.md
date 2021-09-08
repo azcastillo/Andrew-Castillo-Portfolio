@@ -1,5 +1,5 @@
-## Howdy!
-My name is Andrew Castillo and I am a pure mathematics PhD transitioning into the world of data. Here are a few of the data science projects that I have worked on. Github links to the projects are provided if you would like a more in depth analysis. 
+## Howdy and Welcome!
+My name is Andrew Castillo and I am a mathematician and data scientist. Here are a few of the data science projects that I have worked on during my free time. Github links to the projects are provided if you would like a more in depth analysis. 
  
 <p align="center">
  <img src="images/intro_image.jpg" />
