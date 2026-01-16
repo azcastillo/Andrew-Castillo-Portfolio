@@ -5,7 +5,7 @@ My name is Andrew Castillo and I am a mathematician and data scientist. Here are
  <img src="images/intro_image.jpg" />
 </p>
 
-
+## [NFL Big Data Bowl 2026](https://github.com/azcastillo/erdos2021_nfl_predmodel)
 
 ## [CoverMyMeds Erdos Bootcamp Prior Authorization Predictor](https://github.com/azcastillo/covermymeds_project)
 Two part project in which I used simulated data based on prior authorization information to make predictions. 
