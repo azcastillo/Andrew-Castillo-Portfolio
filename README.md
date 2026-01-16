@@ -7,7 +7,7 @@ My name is Andrew Castillo and I am a mathematician and data scientist. Here are
 
 
 
-## [Project: CoverMyMeds Erdos Bootcamp Prior Authorization Predictor](https://github.com/azcastillo/covermymeds_project)
+## [CoverMyMeds Erdos Bootcamp Prior Authorization Predictor](https://github.com/azcastillo/covermymeds_project)
 Two part project in which I used simulated data based on prior authorization information to make predictions. 
 
 ### Project Overview:
@@ -25,7 +25,7 @@ Part 2 of the project consisted of creating a model predicting whether a prior a
  
 ![](images/reject_code_with_drug.jpg)
 
-## [Project 2: NFL Big Data Bowl Erdos Bootcamp Project](https://github.com/azcastillo/erdos2021_nfl_predmodel)
+## [NFL Big Data Bowl Erdos Bootcamp Project](https://github.com/azcastillo/erdos2021_nfl_predmodel)
 
 This project was completed as part of the The Erdős Institute Data Science Boot Camp 2021. The NFL Big Data Bowl is an annual analytics contest that explores statistical innovations in football. NFL data from the 2018 season was analyzed to provide recommendations and summaries for optimal defensive coverages, first down analysis, and penalty analysis. To successfully create a prediction model that NFL teams can benefit from, it is important to understand football and its related data. This will allow data scientists to identify significant data for building a model.    
 
@@ -53,7 +53,7 @@ When either the offense or defense violates the rules of the game, they are asse
 ![](images/personnelD_pass_rushers.jpg)
 
 
-## [Project 3: Data Analyst Salary Predictor](https://github.com/azcastillo/data_analyst_salary_predictor)
+## [Data Analyst Salary Predictor](https://github.com/azcastillo/data_analyst_salary_predictor)
 
 Independent project to gather information on data analyst positions with regard to the skills required as well as predicting salaries. 
 
@@ -81,7 +81,7 @@ Modelling the salaries consisted of the regularization methods Lasso, Ridge, Ela
 
 ![](images/sql_avg_salaries.jpg )
 
-## [Project 4: Credit Card Customer Segmentation Project](https://github.com/azcastillo/credit_card_customer_analysis)
+## [Credit Card Customer Segmentation Project](https://github.com/azcastillo/credit_card_customer_analysis)
 
 Independent project where unsupervised learning techniques are used to evaluate the data. 
 
