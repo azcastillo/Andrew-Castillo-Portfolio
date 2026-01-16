@@ -7,7 +7,7 @@ My name is Andrew Castillo and I am a mathematician and data scientist. Here are
 
 
 
-## [Project 1: CoverMyMeds Erdos Bootcamp Prior Authorization Predictor](https://github.com/azcastillo/covermymeds_project)
+## [Project: CoverMyMeds Erdos Bootcamp Prior Authorization Predictor](https://github.com/azcastillo/covermymeds_project)
 Two part project in which I used simulated data based on prior authorization information to make predictions. 
 
 ### Project Overview:
